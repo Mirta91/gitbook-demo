@@ -1,4 +1,6 @@
 # Table of contents
 
 * [GitBook Demo](README.md)
-  * [Subpage 1](readme/subpage-1.md)
+  * [Api Demo](readme/api-demo.md)
+  * [Code Demo](readme/code-demo.md)
+  * [Hodogram Demo](readme/hodogram-demo.md)
