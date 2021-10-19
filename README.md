@@ -7,11 +7,25 @@ coverY: 0
 
 # GitBook Demo
 
-Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&#x20;
+## Docs Like Code
 
-1. lista 1
-2. lista 2
-3. lista 3
+The** Docs Like Code** methodology is a subset of **Agile**, and it means using the same tools and processes for the docs as you would for the software.
+
+**Consider code documentation that lives alongside the software, possibly in GitHub or similar tool – otherwise, none of your developers will read it.**
+
+**User Documentation **
+
+1. How-to guides – Problem-oriented, take the user through a series of steps to reach a real-world goal&#x20;
+2. Tutorials – Learning-oriented, take the user through a series of steps to learn a concept&#x20;
+3. Reference docs – Information-oriented, technical descriptions of the software (could include software design documents)&#x20;
+4. Explanations – Understanding-oriented, they clarify or illuminate a particular topic for a user
+
+**For Developers Only**
+
+1. [API documentation](readme/api-demo.md) – Reference documentation regarding making API calls and classes&#x20;
+2. Release notes – Information describing the latest software or feature releases, and bug fixes&#x20;
+3. README – A high-level overview of the software, usually alongside the source code&#x20;
+4. System documentation – Documents describing the software system, including technical design documents, software requirements, and UML diagrams
 
 * [ ] task 1
 * [ ] task 2&#x20;
