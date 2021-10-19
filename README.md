@@ -9,7 +9,7 @@ coverY: 0
 
 ## Docs Like Code
 
-The** **[**Docs Like Code** methodology](https://www.docslikecode.com/about/) is a subset of **Agile**, and it means using the same tools and processes for the docs as you would for the software.
+The** **[**Docs Like Code** methodology](https://www.docslikecode.com/about/) is a subset of **Agile**, and it means using the same tools and processes for the docs as you would for the software. asdasda
 
 {% hint style="info" %}
 Consider code documentation that lives alongside the software, possibly in GitHub or similar tool – otherwise, none of your developers will read it.
